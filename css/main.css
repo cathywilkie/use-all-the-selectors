@@ -1,75 +1,89 @@
 /* 1 */
- body {
+
+body {
   background-color: #fdf6e3;
 }
 
 /* 2 */
- header, footer {
+
+header, footer {
   font-size: 1.5rem;
 }
 
 /* 3 */
- nav ul {
+
+nav ul {
   font-family: sans-serif;
 }
 
 /* 4 */
- .logo {
+
+.logo {
   text-transform: uppercase;
 }
 
 /* 5 */
- .wrapper {
+
+.wrapper {
   background-color: #eee8d5;
 }
 
 /* 6 */
- #contents, #favs, #facts, #types {
+
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
 /* 7 */
- .wrapper > .dfn {
+
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
 /* 8 */
- .dfn p + strong {
+
+.dfn p + strong {
   color: #fff;
 }
 
 /* 9 */
- a:not(.no-highlight) {
+
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
 /* 10 */
- a[rel="external"] {
+
+a[rel="external"] {
   background-color: #2694d8;
 }
 
 /* 11 */
- ol :first-child {
+
+ol :first-child {
   color: #719e47;
 }
 
 /* 12 */
- ol :last-child {
+
+ol :last-child {
   color: #2aa198;
 }
 
 /* 13 */
- .types :nth-child(odd) {
+
+.types :nth-child(odd) {
   background-color: #657ba3;
 }
 
 /* 14 */
- .types li {
+
+.types li {
   background-color: #586e75;
 }
 
 /* 15 */
- .types :nth-child(3n) {
+
+.types :nth-child(3n) {
   background-color: #d04b16;
 }
- /* Done! */
